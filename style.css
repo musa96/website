@@ -1,0 +1,55 @@
+.jumbotron {
+    background: linear-gradient(blue, #00008b);    
+    padding: 2px;
+  }
+  
+  .contact{
+    margin-left: 351px;
+    font-family: montez; 
+    color: black;
+  }
+
+  .about {
+    margin-left:25px;
+    font-family: montez;
+    color: black;    
+  }
+
+  .protfolio {
+    margin-left:11px;
+    font-family: montez;
+    color: black;
+  }
+
+  .title {
+    font-family: montez;
+  }
+
+  h2 {
+    font-family: montez;
+    font-size: 162%;
+  }
+
+  body{
+     background: linear-gradient(#00007c,blue)
+  }
+
+  #about{    
+    background: #aba6ab;  
+    color: black;  
+  }
+  
+  .space{
+    height: 400px;    
+    padding-left:60px;
+    padding-bottom:40px;
+  }
+  
+  #portfolio{
+    background: #551a8b ;
+    color: #ffffff;
+  }
+  
+  #contact{  
+    background: lightgrey;      
+  }
